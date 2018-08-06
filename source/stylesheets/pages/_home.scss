@@ -1,11 +1,12 @@
 #home {
-  background-color: #D23333;
+  background-color: $red;
   color: white;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
   text-align: center;
+  font-weight: 700;
   p {
     margin-top: 1.5em;
   }
