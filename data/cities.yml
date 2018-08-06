@@ -1,0 +1,18 @@
+- city: Paris
+  name: Paris, France
+  owner: Sebastien's home
+  description: Charming room in Montmartre
+  user_name: 'Sébastien Saunier'
+  github_nickname: 'ssaunier'
+- city: Tokyo
+  name: Tokyo, Japan
+  owner: Boris's home
+  description: Small flat in Tokyo
+  user_name: 'Boris Paillard'
+  github_nickname: 'Papillard'
+- city: London
+  name: London, UK
+  owner: Romain's home
+  description: Nice flat in Piccadilly
+  user_name: 'Romain Paillard'
+  github_nickname: 'Monsieurpaillard'
